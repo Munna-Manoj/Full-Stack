@@ -1,0 +1,13 @@
+1. comment in html
+<!-- Anything in here -->
+
+2. Important resources for web develpment
+    a. W3schools.com 
+    b. developer.mozilla.org
+
+3. <title> This is title </title>
+    This creates the title of the webpage.
+
+4. <h1> </h1>
+    This gives the heading, but it can have various types like h1,h2 ..etc
+    
